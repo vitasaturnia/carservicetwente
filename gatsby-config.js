@@ -3,7 +3,7 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 module.exports = {
   siteMetadata: {
     title: 'Car Service Twente',
-    description: 'Auto Service Twente',
+    description: 'Car Service Twente',
     contact: {
       phone: '0649714980',
       email: 'picobello333@gmail.com',
