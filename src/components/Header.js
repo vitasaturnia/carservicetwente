@@ -6,6 +6,7 @@ import logo from '../images/logo.svg';
 import logoMobile from '../images/logo-mobile.svg';
 import MenuMobile from './MenuMobile';
 
+
 class Header extends React.Component {
   constructor(props) {
     super(props);
@@ -33,12 +34,24 @@ class Header extends React.Component {
             <Link to="/">
               <img alt="Figurit Homepage" src={logoMobile} />
             </Link>
-          </div>
-          <MenuMobile active={this.state.menuActive} />
-          <Menu />
-          <Hamburger toggleMenu={this.toggleMenu} />
-        </div>
+
       </div>
+
+      <MenuMobile active={this.state.menuActive} />
+          <Menu />
+
+      <Hamburger toggleMenu={this.toggleMenu} />
+
+
+
+
+
+      </div>
+      </div>
+
+
+
+
     );
   }
 }

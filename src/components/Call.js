@@ -6,7 +6,7 @@ const Call = props => (
     <div className="call-box-top">
       <div className="call-phone">
         <strong>Phone: </strong>
-        <a href={`tel:${props.data.site.siteMetadata.contact.phone}`}>
+        <a href={`tel:${props.data.site.siteMetadata.contact.whatsapp}`}>
         {props.data.site.siteMetadata.contact.phone}
         </a>
       </div>
@@ -20,7 +20,7 @@ const Call = props => (
     {props.button && (
       <div className="call-box-bottom">
         <a href="/contact" className="button">
-          Contact
+          Facebook
         </a>
       </div>
     )}

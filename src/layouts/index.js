@@ -12,10 +12,11 @@ const Layout = props => {
       <div className={`page${props.bodyClass ? ` ${props.bodyClass}` : ''}`}>
         <div id="wrapper" className="wrapper">
           <Header />
-          {props.children}
+        {props.children}
+
         </div>
+
         <Footer />
-        <SubFooter />
       </div>
     </React.Fragment>
   )

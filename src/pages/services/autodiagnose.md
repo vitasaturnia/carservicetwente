@@ -1,7 +1,7 @@
 ---
-path: '/services/business-sales'
-title: 'Business Sales'
-date: 2018-11-28T15:15:26+10:00
+path: '/services/autodiagnose'
+title: 'Auto diagnose'
+date: 2019-04-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
 draft: false

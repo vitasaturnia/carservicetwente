@@ -2,25 +2,24 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Auto service Twente',
+    description: 'Auto Service Twente',
     contact: {
-      phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      phone: '0649714980',
+      email: 'picobello333@gmail.com',
+
     },
     menuLinks: [
+      {
+        name: 'Home',
+        link: '/',
+      },
+
       {
         name: 'Services',
         link: '/services',
       },
-      {
-        name: 'Team',
-        link: '/team',
-      },
-      {
-        name: 'Testimonials',
-        link: '/testimonials',
-      },
+
       {
         name: 'Contact',
         link: '/contact',
