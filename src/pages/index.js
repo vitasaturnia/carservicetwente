@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
+import '../scss/styles.css'
 
 
 const Home = (props) => {
@@ -18,6 +19,22 @@ const Home = (props) => {
           content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
         />
       </Helmet>
+
+              <div>
+              <ul class="menu cf">
+      <li><a href="#">Diagnose</a></li>
+  <li>
+  <a href="#">Diagnose</a>
+      </li>
+      <li><a href="#">Bandenwissel</a></li>
+  <li><a href="#">Onderhoud</a></li>
+  <li><a href="#">Accu</a></li>
+  <li><a href="#">Airco</a></li>
+  <li><a href="#">Acties</a></li>
+
+
+  </ul>
+</div>
       <div className="intro pb-4">
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
@@ -38,7 +55,7 @@ const Home = (props) => {
       <div className="container pt-8 pt-md-10">
         <div className="row justify-content-start">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-3">Our Services</h2>
+            <h2 className="title-3 text-dark mb-3">Onze Services</h2>
           </div>
 
 

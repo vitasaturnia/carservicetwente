@@ -5,7 +5,7 @@ module.exports = {
     title: 'Car Service Twente',
     description: 'Car Service Twente',
     contact: {
-      phone: '0649714980',
+      phone: '031649714980',
       email: 'carservicetwente@gmail.com',
 
     },

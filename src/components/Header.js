@@ -5,6 +5,7 @@ import Hamburger from './Hamburger';
 import logo from '../images/logo.png';
 import logoMobile from '../images/logo-mobile.svg';
 import MenuMobile from './MenuMobile';
+import '../scss/styles.css'
 
 
 class Header extends React.Component {
@@ -47,6 +48,7 @@ class Header extends React.Component {
 
 
       </div>
+
       </div>
 
 
@@ -54,7 +56,15 @@ class Header extends React.Component {
 
 
 
-    );
+
+
+
+
+
+
+
+
+  );
   }
 }
 
