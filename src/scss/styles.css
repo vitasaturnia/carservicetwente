@@ -15,6 +15,9 @@
     min-width: 100vh;
     background: #3b5998;
     text-align: center;
+overflow:hidden;
+    display:fixed
+
 
 }
 .menu > li {
@@ -103,3 +106,4 @@
 .menu > li:hover .submenu li:nth-child(odd) {
     -webkit-transform: skewX(-25deg) translateX(-15px);
 }
+

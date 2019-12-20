@@ -23,9 +23,6 @@ const Home = (props) => {
               <div>
               <ul class="menu cf">
       <li><a href="#">Diagnose</a></li>
-  <li>
-  <a href="#">Diagnose</a>
-      </li>
       <li><a href="#">Bandenwissel</a></li>
   <li><a href="#">Onderhoud</a></li>
   <li><a href="#">Accu</a></li>
