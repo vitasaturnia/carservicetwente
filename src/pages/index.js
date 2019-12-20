@@ -23,7 +23,7 @@ const Home = (props) => {
           <h1 className='colouredletters'>Car Service Twente</h1>
           <p>
         Dit is een beschrijving over de website die in het algemeen verteld wat er word gedaan
-    Dit is een beschrijving over de website die in het algemeen verteld wat er word gedaan
+    Dit is een beschrijving over de website die in het algemeen verteld wat er word gedaan.
 
 
 
