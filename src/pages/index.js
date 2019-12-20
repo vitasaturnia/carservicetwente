@@ -22,7 +22,7 @@ const Home = (props) => {
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
           <p>
-        Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie, en in de meeste gevallen klaar terwijl u wacht.
+        Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie. In de meeste gevallen klaar terwijl u wacht.
 
 
 
