@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import Menu from './Menu';
 import Hamburger from './Hamburger';
 import logo from '../images/logo.png';
-import logoMobile from '../images/logo.png';
+import logoMobile from '../images/logo-mobile.svg';
 import MenuMobile from './MenuMobile';
 
 
