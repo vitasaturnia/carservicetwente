@@ -5,8 +5,8 @@ module.exports = {
     title: 'Car Service Twente',
     description: 'Car Service Twente',
     contact: {
-      phone: '0649714980',
-      email: 'picobello333@gmail.com',
+      phone: '+31 6 49714980',
+      email: 'carservicetwente@gmail.com',
 
     },
     menuLinks: [
