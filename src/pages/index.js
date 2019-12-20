@@ -5,6 +5,7 @@ import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
 import '../scss/styles.css'
+import Background from "../images/background.png"
 
 
 const Home = (props) => {
@@ -20,6 +21,10 @@ const Home = (props) => {
         />
       </Helmet>
 
+              <div className="bgimage">
+        We zijn van 9 tot 5 te bereiken op 0616371623!
+        </div>
+
               <div>
               <ul class="menu cf">
       <li><a href="#">Diagnose</a></li>
@@ -30,7 +35,12 @@ const Home = (props) => {
 
 
   </ul>
-</div>
+
+
+        </div>
+
+
+
       <div className="intro pb-4">
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
@@ -44,18 +54,19 @@ const Home = (props) => {
         </div>
       </div>
 
-        <div className="container pt-2">
-        <Call button />
-    </div>
 
-      <div className="container pt-8 pt-md-10">
+
+
+        <div className="container pt-8 pt-md-10">
         <div className="row justify-content-start">
           <div className="col-12">
             <h2 className="title-3 text-dark mb-3">Onze Services</h2>
           </div>
 
 
-          {markdown.map(edge => (
+
+
+    {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
               <div className="card service service-teaser">
                 <div className="card-content">
