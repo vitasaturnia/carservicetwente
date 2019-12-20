@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'gatsby';
 import Menu from './Menu';
 import Hamburger from './Hamburger';
-import logo from '../images/logo.png';
+import logo from '../images/logo.svg';
 import logoMobile from '../images/logo-mobile.svg';
 import MenuMobile from './MenuMobile';
 import '../scss/styles.css'

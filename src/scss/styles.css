@@ -16,8 +16,10 @@
     max-width: 100%;
     background: #3b5998;
     text-align: center;
-overflow:hidden;
-    display:fixed;
+    align-content: center;
+    justify-content: center;
+    box-shadow: 0 1px 15px rgba(50, 50, 93, 0.2);
+
 
 }
 
@@ -27,17 +29,19 @@ overflow:hidden;
     }
 
 .menu > li {
-    float: left;
-    position: relative;
     align-content: center;
+    float: left;
+    display: block;
 }
 .menu a {
-    display: block;
+    display: inline-block;
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
     font-family: Arial, Helvetica;
     font-size: 14px;
+    align-content: center;
+    justify-content: center;
 }
 .menu li:hover {
     background: aqua;
@@ -45,22 +49,21 @@ overflow:hidden;
 .menu > li > a {
     padding: 1em 2em;
 }
-/* Dropdown */
-.submenu {
-    position: absolute;
-    width: 200px;
-    left: 50%;
-    margin-left: -100px;
-    -webkit-transform: skewX(-25deg);
-    -webkit-transform-origin: left top;
-}
-.submenu li {
-    background-color: #34495e;
-    position: relative;
-    overflow: hidden;
+
+
+#navbar ul {
+    list-style-type: none;
+    display: table;
+    float: left;
+    text-align: center;
 }
 .submenu > li > a {
     padding: 1em 2em;
+    margin-left: auto;
+    margin-right: auto;
+    display: table-cell;
+    vertical-align: middle;
+
 }
 .submenu > li::after {
     content:'';
@@ -70,44 +73,11 @@ overflow:hidden;
     width: 100%;
     box-shadow: 0 0 50px rgba(0, 0, 0, .9);
 }
-/* Odd stuff */
-.submenu > li:nth-child(odd) {
-    -webkit-transform: skewX(-25deg) translateX(0);
+
+.bgimage{
+    background-image: url('../images/background.png');
+
+
 }
-.submenu > li:nth-child(odd) > a {
-    -webkit-transform: skewX(25deg);
-}
-.submenu > li:nth-child(odd)::after {
-    right: -50%;
-    -webkit-transform: skewX(-25deg) rotate(3deg);
-}
-/* Even stuff */
-.submenu > li:nth-child(even) {
-    -webkit-transform: skewX(25deg) translateX(0);
-}
-.submenu > li:nth-child(even) > a {
-    -webkit-transform: skewX(-25deg);
-}
-.submenu > li:nth-child(even)::after {
-    left: -50%;
-    -webkit-transform: skewX(25deg) rotate(3deg);
-}
-/* Show dropdown */
-.submenu, .submenu li {
-    opacity: 0;
-    visibility: hidden;
-}
-.submenu li {
-    transition: .2s ease -webkit-transform;
-}
-.menu > li:hover .submenu, .menu > li:hover .submenu li {
-    opacity: 1;
-    visibility: visible;
-}
-.menu > li:hover .submenu li:nth-child(even) {
-    -webkit-transform: skewX(25deg) translateX(15px);
-}
-.menu > li:hover .submenu li:nth-child(odd) {
-    -webkit-transform: skewX(-25deg) translateX(-15px);
-}
+
 
