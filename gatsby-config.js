@@ -21,7 +21,7 @@ module.exports = {
       },
 
       {
-        name: 'Contact',
+        name: 'Openingstijden',
         link: '/contact',
       },
     ],
