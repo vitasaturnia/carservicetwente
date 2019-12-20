@@ -22,8 +22,7 @@ const Home = (props) => {
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
           <p>
-        Dit is een beschrijving over de website die in het algemeen verteld wat er word gedaan
-    Dit is een beschrijving over de website die in het algemeen verteld wat er word gedaan.
+        Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie, en in de meeste gevallen klaar terwijl u wacht.
 
 
 
