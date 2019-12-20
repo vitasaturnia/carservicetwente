@@ -25,7 +25,6 @@ const Home = (props) => {
       <li><a href="#">Diagnose</a></li>
       <li><a href="#">Bandenwissel</a></li>
   <li><a href="#">Onderhoud</a></li>
-  <li><a href="#">Accu</a></li>
   <li><a href="#">Airco</a></li>
   <li><a href="#">Acties</a></li>
 
