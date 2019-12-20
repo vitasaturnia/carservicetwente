@@ -29,7 +29,6 @@ overflow:hidden;
 .menu > li {
     float: left;
     position: relative;
-    -webkit-transform: skewX(25deg);
     align-content: center;
 }
 .menu a {
@@ -41,10 +40,9 @@ overflow:hidden;
     font-size: 14px;
 }
 .menu li:hover {
-    background: #e74c3c;
+    background: aqua;
 }
 .menu > li > a {
-    -webkit-transform: skewX(-25deg);
     padding: 1em 2em;
 }
 /* Dropdown */
