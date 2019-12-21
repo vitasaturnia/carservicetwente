@@ -78,11 +78,27 @@
 .bgimage{
     background-image: url('../images/background.png');
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
+    background-position: right;
     color: white;
     font-family: serif;
+    float: right;
+    margin-right: -10%;
+    overflow: hidden;
 
 
 }
 
+.homeimage{
+    background-repeat: no-repeat;
+    background-size: contain;
+margin-top:0;
+    width: 50%;
+    float:right;
+justify-content: right;
+}
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}

@@ -5,7 +5,7 @@ import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
 import '../scss/styles.css'
-import Background from "../images/background.png"
+import BackGround from "../images/bk3.png"
 
 
 const Home = (props) => {
@@ -21,9 +21,7 @@ const Home = (props) => {
         />
       </Helmet>
 
-              <div className="bgimage">
-        We zijn van 9 tot 5 te bereiken op 0616371623!
-        </div>
+
 
               <div>
               <ul class="menu cf">
@@ -39,20 +37,26 @@ const Home = (props) => {
 
         </div>
 
+    <section>
+    <div>
+    <img src={BackGround} className="bgimage"/>
+        </div>
+        </section>
 
 
+<div classname="servicesbox">
       <div className="intro pb-4">
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
           <p>
         Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie. In de meeste gevallen klaar terwijl u wacht.
 
-
-
-
     </p>
+
         </div>
+
       </div>
+        </div>
 
 
 
@@ -62,7 +66,6 @@ const Home = (props) => {
           <div className="col-12">
             <h2 className="title-3 text-dark mb-3">Onze Services</h2>
           </div>
-
 
 
 
