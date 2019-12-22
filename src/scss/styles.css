@@ -76,17 +76,17 @@
 }
 
 .bgimage{
-    background-image: url('../images/background.png.png');
+    background-image: url('../images/background.png');
     zoom: unsets;
     background-repeat: no-repeat;
     color: white;
     float: right;
     display: fixed;
     background-size:100% auto;
-
     size: 100%;
-    widows: 100%;
+    width: 100%;
     max-height: 100%;
+
 
 
 
