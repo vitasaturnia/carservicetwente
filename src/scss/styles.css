@@ -77,6 +77,7 @@
 
 .bgimage{
     background-image: url('../images/bk3.png');
+    background-size: auto;
     mso-page-scale: ;
     background-repeat: no-repeat;
     color: white;
