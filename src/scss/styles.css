@@ -1,5 +1,6 @@
 
 .cf:before, .cf:after {
+    content:" ";
     display: table;
 }
 .cf:after {
@@ -66,6 +67,7 @@
 
 }
 .submenu > li::after {
+    content:'';
     position: absolute;
     top: -125%;
     height: 100%;
