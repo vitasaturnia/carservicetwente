@@ -27,6 +27,9 @@
 @media screen and (max-width: 678px){
     .menu{
         display: none;}
+    .bgimage{
+        display: none;
+    }
     }
 
 .menu > li {
