@@ -78,7 +78,6 @@
 .bgimage{
     background-image: url('../images/bk3.png');
     background-size: auto;
-position: fixed;
     zoom: unsets;
     background-repeat: no-repeat;
     color: white;
