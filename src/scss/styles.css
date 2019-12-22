@@ -1,6 +1,5 @@
 
 .cf:before, .cf:after {
-    content:" ";
     display: table;
 }
 .cf:after {
@@ -39,7 +38,7 @@
     color: #fff;
     text-transform: uppercase;
     text-decoration: none;
-    font-family: Arial, Helvetica;
+    font-family: Arial;
     font-size: 14px;
     align-content: center;
     justify-content: center;
