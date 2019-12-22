@@ -25,13 +25,12 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <div className="container">
-          <div className="logo">
-            <Link to="/">
-              <img alt="Figurit Homepage" src={logo} />
-            </Link>
-          </div>
-          <div className="logo-mobile">
+        <h3 className="logotext">Tel: 0612345678</h3>
+
+    <div className="container ">
+        <h2 className="logotext"></h2>
+
+    <div className="logo-mobile">
             <Link to="/">
               <img alt="Figurit Homepage" src={logoMobile} />
             </Link>

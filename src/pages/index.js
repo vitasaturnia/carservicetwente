@@ -37,14 +37,12 @@ const Home = (props) => {
 
         </div>
 
-    <section>
     <div>
     <img src={BackGround} className="bgimage"/>
         </div>
-        </section>
 
 
-<div classname="servicesbox">
+<div className="servicesbox">
       <div className="intro pb-4">
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
@@ -61,10 +59,10 @@ const Home = (props) => {
 
 
 
-        <div className="container pt-8 pt-md-10">
+        <div className="container pt-8 pt-md-10 ">
         <div className="row justify-content-start">
-          <div className="col-12">
-            <h2 className="title-3 text-dark mb-3">Onze Services</h2>
+          <div className="col-12 ">
+            <h2 className="title-3 text-dark mb-3 landing">Onze Services</h2>
           </div>
 
 
