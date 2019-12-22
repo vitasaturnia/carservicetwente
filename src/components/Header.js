@@ -25,7 +25,7 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <h3 className="logotext">Tel: 0612345678</h3>
+        <h4 className="logotext">Tel: 0612345678</h4>
 
     <div className="container ">
         <h2 className="logotext"></h2>
