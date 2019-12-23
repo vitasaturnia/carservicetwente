@@ -2,9 +2,9 @@
   position: absolute;
   display: fixed;
   float: center;
-
   opacity: 75%;
   margin-left: 10%;
+}
 
   @include media-breakpoint-up(sm) {
     padding-top: 160px;
