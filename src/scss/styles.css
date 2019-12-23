@@ -78,14 +78,10 @@
 .bgimage{
     background-image: url('../images/bk3.png');
     background-size: auto;
-    display: ;
-    mso-page-scale: ;
     background-repeat: no-repeat;
     color: white;
     float: right;
     display: fixed;
-
-
 
 }
 
@@ -105,6 +101,7 @@ html, body {
     margin-left: auto;
     margin-right: auto;
     max-width: 100;
+    display: fixed;
 }
 
 .landing{
