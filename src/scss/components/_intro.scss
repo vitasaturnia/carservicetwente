@@ -1,10 +1,10 @@
 .intro {
-  position: relative;
-  display:inline-block;
+  position: absolute;
+  display: inline-block;
   float: center;
-  opacity: 75%;
+  padding-bottom: 100px;
+  background: transparent;
   margin-left: 10%;
-}
 
   @include media-breakpoint-up(sm) {
     padding-top: 160px;
