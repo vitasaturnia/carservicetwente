@@ -42,8 +42,8 @@ const Home = (props) => {
     <img src={BackGround} className="bgimage"/>
         </div>
 
-
 <div className="servicesbox">
+<div className="servicescontainer">
       <div className="intro pb-4">
         <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
@@ -56,6 +56,7 @@ const Home = (props) => {
 
       </div>
         </div>
+</div>
 
 
 
