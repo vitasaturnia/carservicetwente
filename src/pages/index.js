@@ -38,13 +38,10 @@ const Home = (props) => {
 
         </div>
 
-
-
     <div>
     <img src={BackGround} className="bgimage"/>
         </div>
 
-      <div className="relativecontainer">
 
 <div className="servicesbox">
       <div className="intro pb-4">
@@ -69,7 +66,7 @@ const Home = (props) => {
             <h2 className="title-3 text-dark mb-3 landing">Onze Services</h2>
           </div>
 
-        </div>
+
 
     {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
