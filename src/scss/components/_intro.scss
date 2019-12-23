@@ -1,6 +1,5 @@
 .intro {
   position: absolute;
-  display: inline-block;
   float: center;
   padding-bottom: 100px;
   background: transparent;
@@ -56,4 +55,8 @@
 .intro-small {
   padding-top: 100px;
   padding-bottom: 30px;
+}
+
+.introbox{
+  position: relative;
 }
