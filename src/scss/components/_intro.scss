@@ -1,9 +1,10 @@
 .intro {
-  position: absolute;
   display: flex;
+  justify-content: flex-start;
+
   float: center;
+  padding-top: 200px;
   padding-bottom: 100px;
-  background: transparent;
   margin-left: 10%;
 
   @include media-breakpoint-up(sm) {

@@ -84,10 +84,6 @@
     display: relative;
     max-height: 100%;
     max-width: 100%;
-
-
-
-
 }
 
 
@@ -102,12 +98,20 @@ html, body {
     margin-left: 2%;
 }
 
-.servicesbox{
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 100;
-}
 
 .landing{
     margin-top:-5%;
+}
+
+.bug {
+    position: relative;
+}
+
+.caption{
+position: absolute;
+    display: flex;
+}
+
+.captioncontainer{
+   position: relative;
 }

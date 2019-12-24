@@ -34,38 +34,32 @@ const Home = (props) => {
 
 
   </ul>
-
-
-        </div>
+              </div>
 
     <div>
     <img src={BackGround} className="bgimage"/>
         </div>
 
-
-<div className="servicesbox">
-      <div className="intro pb-4">
-        <div className="container">
+<div className="captioncontainer">
+      <div className="caption">
+             <div className="intro pb-4">
+      <div className="container">
           <h1 className='colouredletters'>Car Service Twente</h1>
           <p>
         Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie. In de meeste gevallen klaar terwijl u wacht.
 
     </p>
-
-        </div>
+      </div>
 
       </div>
-        </div>
-
-
-
+      </div>
+      </div>
 
         <div className="container pt-8 pt-md-10 ">
         <div className="row justify-content-start">
           <div className="col-12 ">
             <h2 className="title-3 text-dark mb-3 landing">Onze Services</h2>
           </div>
-
 
 
     {markdown.map(edge => (
