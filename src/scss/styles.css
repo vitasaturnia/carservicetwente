@@ -29,6 +29,7 @@
         display: none;}
     }
 
+
 .menu > li {
     align-content: center;
     float: left;
@@ -76,11 +77,9 @@
 }
 
 .bgimage{
-    background-image: url('../images/bk3.png');
-    background-size: auto;
+    background-image: url('../images/background3333.png');
+    background-size: cover;
     background-repeat: no-repeat;
-    color: white;
-    float: right;
     display: relative;
     max-height: 100%;
     max-width: 100%;
@@ -99,19 +98,6 @@ html, body {
 }
 
 
-.landing{
-    margin-top:-5%;
-}
 
-.bug {
-    position: relative;
-}
 
-.caption{
-position: absolute;
-    display: flex;
-}
 
-.captioncontainer{
-   position: relative;
-}

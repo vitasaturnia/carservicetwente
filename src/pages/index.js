@@ -4,8 +4,8 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
-import '../scss/styles.css'
-import BackGround from "../images/bk3.png"
+import '../scss/styles.css';
+import BackGround from '../images/background3333.png';
 
 
 const Home = (props) => {
@@ -13,7 +13,7 @@ const Home = (props) => {
   const json = props.data.allFeaturesJson.edges;
   return (
     <Layout bodyClass="page-home">
-      <SEO title="Home" />
+      <SEO title="Home"/>
       <Helmet>
         <meta
           name="description"
@@ -23,46 +23,30 @@ const Home = (props) => {
       </Helmet>
 
 
+      <div>
+        <ul className="menu cf">
+          <li><a href="#">Diagnose</a></li>
+          <li><a href="#">Bandenwissel</a></li>
+          <li><a href="#">Onderhoud</a></li>
+          <li><a href="#">Airco</a></li>
+          <li><a href="#">Acties</a></li>
 
-              <div>
-              <ul class="menu cf">
-      <li><a href="#">Diagnose</a></li>
-      <li><a href="#">Bandenwissel</a></li>
-  <li><a href="#">Onderhoud</a></li>
-  <li><a href="#">Airco</a></li>
-  <li><a href="#">Acties</a></li>
 
-
-  </ul>
-              </div>
-
-    <div>
-    <img src={BackGround} className="bgimage"/>
-        </div>
-
-<div className="captioncontainer">
-      <div className="caption">
-             <div className="intro pb-4">
-      <div className="container">
-          <h1 className='colouredletters'>Car Service Twente</h1>
-          <p>
-        Bied een complete service aan voor alle automerken. Van diagnose tot onderhoud en reparatie. In de meeste gevallen klaar terwijl u wacht.
-
-    </p>
+        </ul>
       </div>
 
-      </div>
-      </div>
+      <div>
+        <img src={BackGround} className="bgimage"/>
       </div>
 
         <div className="container pt-8 pt-md-10 ">
-        <div className="row justify-content-start">
-          <div className="col-12 ">
-            <h2 className="title-3 text-dark mb-3 landing">Onze Services</h2>
+          <div className="row justify-content-start">
+            <div className="col-12 ">
+              <h2 className="title-3 text-dark mb-3">Onze Services</h2>
+            </div>
           </div>
 
-
-    {markdown.map(edge => (
+          {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
               <div className="card service service-teaser">
                 <div className="card-content">
@@ -78,11 +62,7 @@ const Home = (props) => {
           ))}
 
 
-
-        </div>
       </div>
-
-
 
     </Layout>
   );

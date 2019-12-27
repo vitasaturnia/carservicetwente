@@ -1,7 +1,9 @@
 import React from 'react';
 import { graphql, Link, StaticQuery } from 'gatsby';
+import Layout from '../layouts';
 
 const Footer = props => (
+
   <div className="footer-strip">
     <div className="container">
       <div className="row">
