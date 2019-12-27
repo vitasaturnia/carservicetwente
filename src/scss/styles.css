@@ -28,6 +28,9 @@
     .menu{
         display: none;}
     }
+.bgimage{
+    display: none;
+}
 
 
 .menu > li {
