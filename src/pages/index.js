@@ -16,8 +16,8 @@ const Home = (props) => {
       <SEO title="Home"/>
       <Helmet>
         <meta
-          name="description"
-          content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
+          name="Car Service Twente"
+          content="De auto specialist van Twente"
 
         />
       </Helmet>
@@ -25,12 +25,12 @@ const Home = (props) => {
 
       <div>
         <ul className="menu cf">
-          <li><a href="#">Diagnose</a></li>
-          <li><a href="#">Bandenwissel</a></li>
-          <li><a href="#">Onderhoud</a></li>
-          <li><a href="#">Airco</a></li>
-          <li><a href="#">Acties</a></li>
-
+          <li><Link to={'/services/autodiagnose'}>Diagnose</Link></li>
+          <li><Link to={'/services/foutcodesverwijderen'}>Foutcodes</Link></li>
+          <li><Link to={'/services/sleutelkwijt'}>Sleutelservice</Link></li>
+          <li><Link to={'/services/bandenwisselen'}>Bandenwissel</Link></li>
+          <li><Link to={'/services/kleinebeurt'}>Kleine Beurt</Link></li>
+          <li><Link to={'/services/grotebeurt'}>Grote Beurt</Link></li>
 
         </ul>
       </div>
@@ -60,6 +60,7 @@ const Home = (props) => {
 
 
           ))}
+
 
 
       </div>
