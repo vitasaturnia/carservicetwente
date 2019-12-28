@@ -27,10 +27,11 @@
 @media screen and (max-width: 678px){
     .menu{
         display: none;}
+    .bgimage{
+        display: none;
     }
-.bgimage{
-    display: none;
-}
+    }
+
 
 
 .menu > li {
@@ -80,7 +81,6 @@
 }
 
 .bgimage{
-    background-image: url('../images/background3333.png');
     background-size: cover;
     background-repeat: no-repeat;
     display: relative;

@@ -44,7 +44,6 @@ const Home = (props) => {
             <div className="col-12 ">
               <h2 className="title-3 text-dark mb-3">Onze Services</h2>
             </div>
-          </div>
 
           {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
@@ -59,10 +58,12 @@ const Home = (props) => {
             </div>
 
 
+
           ))}
 
 
       </div>
+        </div>
 
     </Layout>
   );
