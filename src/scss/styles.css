@@ -84,11 +84,11 @@
 }
 
 .bgimage{
-    background-size: cover;
+    background-size: auto;
+    display: block;
     background-repeat: no-repeat;
-    display: relative;
-    max-height: 100%;
     max-width: 100%;
+    padding-bottom: 0;
 }
 
 

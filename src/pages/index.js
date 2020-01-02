@@ -23,15 +23,15 @@ const Home = (props) => {
       </Helmet>
 
 
+
       <div>
         <ul className="menu cf">
           <li><Link to={'/services/autodiagnose'}>Diagnose</Link></li>
-          <li><Link to={'/services/foutcodesverwijderen'}>Foutcodes</Link></li>
-          <li><Link to={'/services/sleutelkwijt'}>Sleutelservice</Link></li>
           <li><Link to={'/services/bandenwisselen'}>Bandenwissel</Link></li>
+          <li><Link to={'/services/sleutelkwijt'}>Sleutelservice</Link></li>
           <li><Link to={'/services/kleinebeurt'}>Kleine Beurt</Link></li>
           <li><Link to={'/services/grotebeurt'}>Grote Beurt</Link></li>
-
+          <li><Link to={'/services/airco'}>Airco</Link></li>
         </ul>
       </div>
 
@@ -39,9 +39,9 @@ const Home = (props) => {
         <img src={BackGround} className="bgimage"/>
       </div>
 
-        <div className="container pt-8 pt-md-10 ">
+        <div className="container pt-8 pt-md-10 servicesbox">
           <div className="row justify-content-start">
-            <div className="col-12 ">
+            <div className="col-12">
               <h2 className="title-3 text-dark mb-3">Onze Services</h2>
             </div>
 
