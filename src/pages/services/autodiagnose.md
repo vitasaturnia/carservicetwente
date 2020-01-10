@@ -1,51 +1,42 @@
 ---
 path: '/services/autodiagnose'
 title: 'Auto diagnose'
-date: 2019-04-28T15:15:26+10:00
+date: 2017-04-28T15:15:26+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+ De boordcomputer van de auto word uitgelezen op
+ foutcodes en of storingen. Met de software waarover wij beschikken 
+ kunnen we alle automerken uitlezen en krijgt u 
+ een rapport van de diagnose mee naar huis. Wij 
+ bieden de volgende services aan.
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+- Foutcodes uitlezen
+- Storing zoeken
 
-## Geniti facinus praeruptam atris ab manus in
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+## Foutcodes uitlezen
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+Voor het uitlezen van foutcodes vragen wij een 
+vaste prijs van 20 EURO per diagnose. 
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
+1. Duurt gemiddeld 10 a 15 minuten 
+3. DiagnoseRapport per E-mail of Uitgeprint 
 
-## Vidit si probetne vertitur
+## Storing zoeken
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+Een foutcode vertelt zelden het hele verhaal. 
+Bij een storingsdiagnose gaan we verder in op de foutcodes 
+om te kijken wat het probleem veroorzaakt. Dit neemt 
+meer tijd in beslag dan het uitlezen van foutcodes.
+Daarom vragen wij en uurtarief van 40 EURO per uur 
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
+
+1. airbagsysteem
+2. 
 3. Sub ut Hyadasque specus terraeque coniunx vix
 4. Voce addita est haec
 5. Stagnum pavido sanguine Priamo custodia sed
 
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.

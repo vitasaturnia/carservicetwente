@@ -39,7 +39,8 @@ const Home = (props) => {
         <img src={BackGround} className="bgimage"/>
       </div>
 
-        <div className="container pt-8 pt-md-10 servicesbox">
+      <div className="servicesbox">
+        <div className="container pt-8 pt-md-10">
           <div className="row justify-content-start">
             <div className="col-12">
               <h2 className="title-3 text-dark mb-3">Onze Services</h2>
@@ -59,12 +60,14 @@ const Home = (props) => {
 
 
 
+
           ))}
 
+          </div>
+        </div>
 
 
       </div>
-        </div>
 
     </Layout>
   );

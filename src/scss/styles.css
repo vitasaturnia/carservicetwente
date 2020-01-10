@@ -85,7 +85,7 @@
 
 .bgimage{
     background-size: auto;
-    display: block;
+    display: inline-block;
     background-repeat: no-repeat;
     max-width: 100%;
     padding-bottom: 0;

@@ -6,11 +6,13 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
-De airco installatie van uw auto heeft periodiek onderhoud nodig. Uw airconditioning verliest namelijk jaarlijks een gedeelte van de vloeistof. Dat is heel normaal. Echter, wanneer de airco van de auto naar verloop van tijd beschikt over te weinig koelvloeistof, kan er slijtage gaan ontstaan. Dergelijke reparaties zijn kostbaar. Daarnaast veroorzaakt een matig of slecht werkende airco een hoger brandstofverbruik. Daarom word het geadviseerd om jaarlijks een airco check uit te laten voeren.
+De airco installatie van uw auto heeft ook 
+onderhoud nodig. Uw airconditioning verliest namelijk 
+jaarlijks vloeistof. Dat is normaal. Echter, wanneer de airco van de auto beschikt over te 
+weinig vloeistof, kan er slijtage ontstaan. Daarnaast 
+veroorzaakt een matig of slecht werkende airco een 
+hoger brandstofverbruik. Daarom word het geadviseerd om jaarlijks een airco check uit te laten voeren.
 
-
-- Airco vullen
-- Airco reinigen
 
 
 ## Airco vullen
