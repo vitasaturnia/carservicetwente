@@ -27,11 +27,13 @@ const Home = (props) => {
       <div>
         <ul className="menu cf">
           <li><Link to={'/services/autodiagnose'}>Diagnose</Link></li>
-          <li><Link to={'/services/bandenwisselen'}>Bandenwissel</Link></li>
+          <li><Link to={'/services/bandenwisselen'}>Bandenservice</Link></li>
           <li><Link to={'/services/sleutelkwijt'}>Sleutelservice</Link></li>
-          <li><Link to={'/services/kleinebeurt'}>Kleine Beurt</Link></li>
-          <li><Link to={'/services/grotebeurt'}>Grote Beurt</Link></li>
+          <li><Link to={'/services/onderhoud'}>Onderhoud</Link></li>
           <li><Link to={'/services/airco'}>Airco</Link></li>
+          <li><Link to={'/services/inbouw'}>Xenon</Link></li>
+          <li><Link to={'/services/audio'}>Audio</Link></li>
+
         </ul>
       </div>
 
