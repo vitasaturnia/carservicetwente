@@ -25,10 +25,9 @@ class Header extends React.Component {
   render() {
     return (
       <div className="header">
-        <h4 className="logotext">Tel: 06123456789</h4>
+        <h4 className="logotext"></h4>
 
-    <div className="container ">
-        <h2 className="logotext"></h2>
+    <div className="container has-text-centered ">
 
     <div className="logo-mobile">
             <Link to="/">
@@ -38,7 +37,6 @@ class Header extends React.Component {
       </div>
 
       <MenuMobile active={this.state.menuActive} />
-          <Menu />
 
       <Hamburger toggleMenu={this.toggleMenu} />
 

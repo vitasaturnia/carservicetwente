@@ -5,7 +5,7 @@ import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
 import '../scss/styles.css';
-import BackGround from '../images/background3333.png';
+import BackGround from '../images/bk3.png';
 
 
 const Home = (props) => {
