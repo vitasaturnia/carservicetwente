@@ -6,8 +6,8 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
-De airco installatie van uw auto heeft ook 
-onderhoud nodig. Uw airconditioning verliest namelijk 
+De airco installatie van uw auto heeft  
+onderhoud nodig. Uw airconditioning verliest  
 jaarlijks vloeistof. Dat is normaal. Echter, wanneer de airco van de auto beschikt over te 
 weinig vloeistof, kan er slijtage ontstaan. Daarnaast 
 veroorzaakt een matig of slecht werkende airco een 
@@ -17,12 +17,11 @@ hoger brandstofverbruik. Daarom word het geadviseerd om jaarlijks een airco chec
 
 ## Airco vullen
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+De airco verliest per jaar zo'n 10% vloeistof. Laat daarom het vloeistofniveau van jouw 
+controloren. Dit is belangrijk voor het behoud en werking van de airco. 
+
+
+Is jouw auto afgevuld met R1234A koudemiddel? dan bedragen de kosten voor het afvullen van de airco €169,-
 
 1. Deum sibi poma lacuque fateor
 2. Nisi vultibus adspicio totosque gladios a novatrix

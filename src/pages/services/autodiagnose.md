@@ -7,23 +7,26 @@ featured: true
 draft: false
 ---
 
- De boordcomputer van de auto word uitgelezen op
- foutcodes en of storingen. Met de software waarover wij beschikken 
- kunnen we alle automerken uitlezen en krijgt u 
- een rapport van de diagnose mee naar huis. Wij 
- bieden de volgende services aan.
 
-- Foutcodes uitlezen
-- Storing zoeken
+ 
+ Als klant ontvang je een uitgebreid diagnose rapport die we samen 
+ met jou door kunnen nemen. U kunt bij ons terecht met alle verschillende
+ automerken en wij kunnen o.a. de volgende sytemen voor uitlezen.
 
 
-## Foutcodes uitlezen
+- Steering system           - Chasis System
+- Engine system             - TPMS System
+- ABS System                - Security System
+- Brake system              - EPB System
+- SRS System                - Audio System
+- Battery System            - EGR system
 
-Voor het uitlezen van foutcodes vragen wij een 
-vaste prijs van 20 EURO per diagnose. 
 
-1. Duurt gemiddeld 10 a 15 minuten 
-3. DiagnoseRapport per E-mail of Uitgeprint 
+## Foutcodes uitlezen 
+
+- Een vaste prijs van 20 Euro
+- Rapport per E-mail of Uitgeprint 
+- Duurt gemiddeld 10 a 15 min
 
 ## Storing zoeken
 
@@ -34,9 +37,5 @@ meer tijd in beslag dan het uitlezen van foutcodes.
 Daarom vragen wij en uurtarief van 40 EURO per uur 
 
 
-1. airbagsysteem
-2. 
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+
 

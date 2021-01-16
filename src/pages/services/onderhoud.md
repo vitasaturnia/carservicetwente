@@ -1,13 +1,11 @@
 ---
-path: '/services/kleinebeurt'
-title: 'Kleine beurt'
+path: '/services/onderhoud'
+title: 'Onderhoud'
 date: 2018-11-18T12:33:46+10:00
 image: 'services/noun_591323.png'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Kleine beurt, grote beurt, bij ons bent u aan het goede adres.
 
 ## Ne verba patulosque numen vix libet
 
