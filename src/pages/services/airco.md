@@ -6,41 +6,46 @@ image: '/services/default.png'
 featured: true
 draft: false
 ---
-De airco installatie van uw auto heeft  
-onderhoud nodig. Uw airconditioning verliest  
-jaarlijks vloeistof. Dat is normaal. Echter, wanneer de airco van de auto beschikt over te 
-weinig vloeistof, kan er slijtage ontstaan. Daarnaast 
-veroorzaakt een matig of slecht werkende airco een 
-hoger brandstofverbruik. Daarom word het geadviseerd om jaarlijks een airco check uit te laten voeren.
+De Airco installatie van uw auto heeft  
+onderhoud nodig. Uw Airconditioning verliest  
+jaarlijks vloeistof en wanneer de Airco beschikt over te 
+weinig vloeistof kan er slijtage ontstaan. Laat daarom het vloeistofniveau van
+jouw auto controleren. Dit is belangrijk voor het behoud en werking van de Airco
 
 
 
-## Airco vullen
+## Airco
 
-De airco verliest per jaar zo'n 10% vloeistof. Laat daarom het vloeistofniveau van jouw 
-controloren. Dit is belangrijk voor het behoud en werking van de airco. 
+         AIRCO REINIGEN
+
+Last van nare luchtjes uit je airco?
+Kies dan voor Airco Reinigen
+
+V Airco reinigen zodat ziektekiemen
+  en nare luchtjes verdwijnen
+
+V Vetraagt de aanwas van
+  nieuwe bacterien
+  
+
+             29 euro
+
+        
+         AIRCO SERVICEBEURT
+
+Koelt je airco minder goed dan eerst?
+Kies dan voor de Airco Servicebeurt!
 
 
-Is jouw auto afgevuld met R1234A koudemiddel? dan bedragen de kosten voor het afvullen van de airco €169,-
+V vullen met koudemiddel
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+V Airco wordt nageken
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
 
-## Airco reinigen
+              99 euro
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
+
 
 Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
 Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
